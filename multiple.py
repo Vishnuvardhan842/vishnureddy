@@ -8,7 +8,7 @@ class Mother:
 
 class Child(Father,Mother):
     def ability(self):
-        print("Childs ability:Painting")
+        print("Childs ability:crying ")
 
 child = Child()
 child.skill()
