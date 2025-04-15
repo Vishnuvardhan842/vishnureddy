@@ -4,7 +4,7 @@ class Father:
 
 class Mother:
     def talent(self):
-        print("Mothers talent: singing")
+        print("Mothers talent: dancing")
 
 class Child(Father,Mother):
     def ability(self):
