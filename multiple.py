@@ -14,3 +14,4 @@ child = Child()
 child.skill()
 child.talent()
 child.ability()
+#jhga;oserhg'iuaewrh
