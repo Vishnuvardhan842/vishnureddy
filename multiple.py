@@ -1,6 +1,6 @@
 class Father:
     def skill(self):
-        print("Fathers skill:gardening")
+        print("hey!")
 
 class Mother:
     def talent(self):
